@@ -4,12 +4,12 @@
 <p align="left"> <a href="https://twitter.com/theblondealex" target="blank"><img src="https://img.shields.io/twitter/follow/theblondealex?logo=twitter&style=for-the-badge" alt="theblondealex" /></a> </p>
 
 - 🔭 I’m currently working on [Streamline (Discord Bot)](https://streamline.theblondealex.com/)
+  
+- 🔭 I’m also working on [Learn the Lines (Mobile App)](https://linktr.ee/learnthelines)
 
 - 🌱 I’m currently learning **React Native Skia & Golang**
 
-- 🔭 I’m also working on [Learn the Lines (Mobile App)](https://linktr.ee/learnthelines)
-
-- 👨‍💻 All of my projects are available at [https://theblondealex.com/](https://theblondealex.com/)
+- 👨‍💻 All of my projects are available at [https://theblondealex.com/](https://theblondealex.com/work)
 
 - 💬 Ask me about **React Native, Discord and Typescript**
 
