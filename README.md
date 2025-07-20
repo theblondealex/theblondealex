@@ -1,21 +1,44 @@
-<h1 align="center"Alexander</h1>
+<h1 align="center">Alexander</h1>
 
-<p align="left"> <a href="https://twitter.com/theblondealex" target="blank"><img src="https://img.shields.io/twitter/follow/theblondealex?logo=twitter&style=for-the-badge" alt="theblondealex" /></a> </p>
-
-Current Projects
-- [Streamline (Discord Bot)](https://streamline.theblondealex.com/)
-- [Learn the Lines (Mobile App)](https://linktr.ee/learnthelines)
-
-- See me @ [https://theblondealex.com/](https://theblondealex.com/work)
-
-- Reach me @ **dev@theblondealex.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/theblondealex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theblondealex" height="30" width="40" /></a>
-<a href="https://discord.gg/9bDyuCMkZZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9bDyuCMkZZ" height="30" width="40" /></a>
+<p align="center">
+  See me @ <a href="https://theblondealex.com/work" target="_blank">https://theblondealex.com/</a><br />
+  Reach me @ <strong>dev@theblondealex.com</strong>
 </p>
 
+<div align="center">
 
+<table>
+  <thead>
+    <tr>
+      <th>Projects</th>
+      <th>Connect</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li><a href="https://streamline.theblondealex.com/">Streamline (Discord Bot)</a></li>
+          <li><a href="https://linktr.ee/learnthelines">Learn the Lines (Mobile App)</a></li>
+        </ul>
+      </td>
+      <td>
+        <a href="https://twitter.com/theblondealex" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+        </a>
+        &nbsp;
+        <a href="https://discord.gg/9bDyuCMkZZ" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-![Alexanders's GitHub stats](https://github-stats-mocha-zeta.vercel.app/api?username=theblondealex&show_icons=true&theme=transparent&include_all_commits=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&rank_icon=github)
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-stats-mocha-zeta.vercel.app/api?username=theblondealex&show_icons=true&theme=transparent&include_all_commits=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="Alexander's GitHub stats" />
+</p>
